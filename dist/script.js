@@ -57,3 +57,10 @@ document.querySelector('#form-registro').addEventListener('submit', (event) => {
 document.querySelectorAll('input, select, textarea').forEach((field) => {
   field.addEventListener('input', () => field.classList.remove('invalid'));
 });
+document.addEventListener('keydown', (event) => {
+  if (event.key === 'Escape' && mainNav.classList.contains('open')) {
+    mainNav.classList.remove('open');
+    menuButton.setAttribute('aria-expanded', 'false');
+    menuButton.focus();
+  }
+});
