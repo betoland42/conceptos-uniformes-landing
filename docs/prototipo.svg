@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1900" viewBox="0 0 1200 1900" role="img" aria-labelledby="title desc">
+  <title id="title">Prototipo de baja fidelidad - Conceptos Uniformes</title>
+  <desc id="desc">Planeación vertical de la landing con header, jumbotron, catálogo, ventajas, proceso, nosotros, registro y footer.</desc>
+  <rect width="1200" height="1900" fill="#f4f4f4"/>
+  <g font-family="Arial, sans-serif" fill="#222">
+    <text x="70" y="70" font-size="34" font-weight="700">Prototipo de baja fidelidad</text>
+    <text x="70" y="108" font-size="20" fill="#666">Landing page · Conceptos Uniformes · Vista de escritorio</text>
+  </g>
+  <g transform="translate(70 150)" stroke="#343434" stroke-width="3" fill="#fff">
+    <rect width="1060" height="1650" rx="8"/>
+    <rect x="25" y="25" width="1010" height="80" fill="#e7e7e7"/>
+    <circle cx="78" cy="65" r="25" fill="#ccc"/><rect x="120" y="48" width="155" height="14" fill="#bbb" stroke="none"/><rect x="680" y="48" width="320" height="34" fill="#d2d2d2" stroke="none"/>
+    <text x="45" y="142" font-family="Arial" font-size="18" font-weight="700">HEADER: logo + navegación + botón de cotización</text>
+
+    <rect x="25" y="170" width="1010" height="340" fill="#dedede"/>
+    <rect x="65" y="220" width="450" height="35" fill="#aaa" stroke="none"/><rect x="65" y="275" width="540" height="78" fill="#bbb" stroke="none"/><rect x="65" y="375" width="380" height="22" fill="#aaa" stroke="none"/><rect x="65" y="420" width="410" height="48" rx="24" fill="#fff"/>
+    <rect x="650" y="205" width="330" height="265" fill="#c3c3c3" stroke-dasharray="10 8"/>
+    <text x="675" y="340" font-family="Arial" font-size="18">IMAGEN DEL EQUIPO</text>
+    <text x="45" y="545" font-family="Arial" font-size="18" font-weight="700">JUMBOTRON: propuesta de valor + correo + llamada a la acción</text>
+
+    <rect x="25" y="575" width="1010" height="300" fill="#fafafa"/>
+    <rect x="65" y="610" width="430" height="32" fill="#bbb" stroke="none"/>
+    <rect x="65" y="680" width="290" height="150" fill="#ddd"/><rect x="385" y="680" width="290" height="150" fill="#ddd"/><rect x="705" y="680" width="290" height="150" fill="#ddd"/>
+    <text x="45" y="910" font-family="Arial" font-size="18" font-weight="700">CATÁLOGO: corporativo + industrial + hospitalidad</text>
+
+    <rect x="25" y="940" width="1010" height="115" fill="#e7e7e7"/>
+    <rect x="60" y="970" width="280" height="45" fill="#ccc" stroke="none"/><rect x="390" y="970" width="280" height="45" fill="#ccc" stroke="none"/><rect x="720" y="970" width="280" height="45" fill="#ccc" stroke="none"/>
+    <text x="45" y="1090" font-family="Arial" font-size="18" font-weight="700">VENTAJAS: diseño + calidad + entrega</text>
+
+    <rect x="25" y="1120" width="1010" height="210" fill="#fafafa"/>
+    <rect x="65" y="1160" width="370" height="120" fill="#ddd"/><rect x="485" y="1160" width="510" height="24" fill="#ccc" stroke="none"/><rect x="485" y="1205" width="510" height="24" fill="#ccc" stroke="none"/><rect x="485" y="1250" width="510" height="24" fill="#ccc" stroke="none"/>
+    <text x="45" y="1365" font-family="Arial" font-size="18" font-weight="700">PROCESO + NOSOTROS</text>
+
+    <rect x="25" y="1395" width="1010" height="160" fill="#dedede"/>
+    <rect x="65" y="1430" width="350" height="90" fill="#ccc"/><rect x="470" y="1430" width="525" height="90" fill="#fff"/>
+    <text x="45" y="1590" font-family="Arial" font-size="18" font-weight="700">REGISTRO: datos del usuario + envío de solicitud</text>
+
+    <rect x="25" y="1620" width="1010" height="85" fill="#bdbdbd"/>
+    <text x="45" y="1740" font-family="Arial" font-size="18" font-weight="700">FOOTER: navegación + contacto + redes sociales</text>
+  </g>
+</svg>
