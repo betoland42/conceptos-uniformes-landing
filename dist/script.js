@@ -64,3 +64,7 @@ document.addEventListener('keydown', (event) => {
     menuButton.focus();
   }
 });
+const currentYear = document.querySelector('#current-year');
+if (currentYear) {
+  currentYear.textContent = new Date().getFullYear();
+}
